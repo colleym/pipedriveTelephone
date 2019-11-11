@@ -1,10 +1,8 @@
- # Convert Pipedrive Telephonenumbers to internatinal standard
+ # Convert Pipedrive Telephone Numbers to internatinal standard
 There was a problem calling contacts directly from the Pipedrive app. The root cause was a wrong phone number format.
 
 Source: 02331 666777
 Format needed: +49 2331 666 777
-
-To correct this problem, I developed this script.
 
 ## Create a file to handover the Pipedrive API Access Token
 ```
